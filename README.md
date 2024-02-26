@@ -3,7 +3,7 @@
 ## Polyglot-ko란?
 
 - Polyglot은 비영리 AI 연구단체인 EleutherAI에서 개발한 GPT-NeoX 기반의 multilingual pretrained 모델.
-- 한국어 데이터로 사전학습된 Polyglot-ko모델은 TUNiB에서 수집한 1.2TB의 한국어 데이터를 다양한 방식의 전처리를 거쳐 가공한 뒤 사전학습시켰습니다.
+- 한국어 데이터로 사전학습된 Polyglot-ko모델은 TUNiB에서 수집한 1.2TB의 한국어 데이터를 다양한 방식의 전처리를 거쳐 가공한 뒤 사전학습시킴.
 - Koalpaca모델의 백본 모델로 사용된다.
 
 ## QLoRA란?
